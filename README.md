@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mdonmez.
-- 👀 I’m interested in Technology, Linux, Python, Web Development and Artificial intelligence.
+- 👀 I’m interested in Technology, Linux, Python, Web Development and Artificial Intelligence.
 - 🌱 I’m currently learning Flask, OOP and AI's.
 - 🎯 My goal is to make software that will make people's lives easier and to bring what is already there to an even better level.
 - 🗣️ My mother tongue is Turkish but I can also speak some English.
